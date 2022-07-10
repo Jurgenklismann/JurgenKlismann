@@ -15,3 +15,5 @@ Estou em transição de engenharia elétrica para programação pois sempre foi 
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div><br/>
+
+### Sou apaixonado por tecnologias mobile,educação,tenho uma familia maravilhosa,sou esforçado e estou atrás do meu primeiro sim como desenvolvedor mobile.
